@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" fill="none">
+  <rect width="1200" height="820" fill="#C7D8D2"/>
+  <rect x="128" y="90" width="944" height="640" rx="18" fill="#F5F1E7"/>
+  <path d="M128 153h944" stroke="#142747" stroke-opacity=".2" stroke-width="2"/>
+  <circle cx="167" cy="122" r="7" fill="#D76F52"/><circle cx="192" cy="122" r="7" fill="#D7E98C"/><circle cx="217" cy="122" r="7" fill="#142747"/>
+  <text x="186" y="223" fill="#142747" font-family="Arial,sans-serif" font-size="17" letter-spacing="5">FIELD NOTES / DIGITAL JOURNAL</text>
+  <text x="186" y="331" fill="#142747" font-family="Georgia,serif" font-size="78" font-style="italic">A little further</text>
+  <text x="186" y="417" fill="#142747" font-family="Georgia,serif" font-size="78" font-style="italic">out there.</text>
+  <path d="M186 465h410" stroke="#142747" stroke-opacity=".28" stroke-width="2"/>
+  <rect x="186" y="506" width="386" height="170" rx="4" fill="#D7E98C"/>
+  <path d="M186 650c66-84 123-92 193-12 66 75 123 55 193-63v101H186v-26z" fill="#718A78"/>
+  <circle cx="483" cy="551" r="24" fill="#D76F52"/>
+  <rect x="619" y="506" width="267" height="13" fill="#142747" fill-opacity=".78"/>
+  <rect x="619" y="540" width="353" height="8" fill="#142747" fill-opacity=".2"/>
+  <rect x="619" y="562" width="322" height="8" fill="#142747" fill-opacity=".2"/>
+  <rect x="619" y="584" width="337" height="8" fill="#142747" fill-opacity=".2"/>
+  <text x="619" y="658" fill="#142747" font-family="Arial,sans-serif" font-size="14" letter-spacing="3">CREATIF CUE / PROJECT 02</text>
+</svg>

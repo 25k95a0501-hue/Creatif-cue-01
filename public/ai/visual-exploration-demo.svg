@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 420">
+  <title>Original visual exploration demo illustration, not client work</title>
+  <rect width="360" height="420" fill="#ddd8ce"/>
+  <path d="M70 325V150a110 110 0 0 1 220 0v175h-52V150a58 58 0 0 0-116 0v175Z" fill="#b2947d"/>
+  <path d="M110 325V176a70 70 0 0 1 140 0v149h-32V176a38 38 0 0 0-76 0v149Z" fill="#f5f1e7"/>
+  <circle cx="187" cy="261" r="44" fill="#142747"/>
+  <rect x="22" y="325" width="316" height="42" rx="3" fill="#d2ee89"/>
+  <path d="M38 385h115M190 385h132" stroke="#142747" stroke-width="2"/>
+  <text x="22" y="26" font-family="Arial,sans-serif" font-size="10" letter-spacing="2" fill="#142747">VISUAL STUDY / DEMO</text>
+</svg>

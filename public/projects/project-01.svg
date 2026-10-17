@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" fill="none">
+  <rect width="1200" height="820" fill="#DFE4D6"/>
+  <circle cx="870" cy="385" r="275" fill="#D7E98C"/>
+  <circle cx="870" cy="385" r="198" stroke="#142747" stroke-width="2"/>
+  <circle cx="870" cy="385" r="124" fill="#142747"/>
+  <path d="M590 385h558M870 105v560" stroke="#142747" stroke-opacity=".28" stroke-width="2"/>
+  <path d="M130 155h302v510H130z" fill="#F5F1E7"/>
+  <path d="M168 199h225M168 224h166" stroke="#142747" stroke-width="5"/>
+  <text x="168" y="386" fill="#142747" font-family="Georgia,serif" font-size="67" font-style="italic">made of</text>
+  <text x="168" y="456" fill="#142747" font-family="Arial,sans-serif" font-size="58" font-weight="700">MOMENT</text>
+  <text x="168" y="615" fill="#142747" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">CREATIF CUE / PROJECT 01</text>
+</svg>

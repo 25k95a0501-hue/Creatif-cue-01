@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="80" viewBox="0 0 220 80" fill="none">
+  <title>Demo client 04 placeholder logo</title>
+  <path d="M20 26h36v24H20z" stroke="#142747" stroke-width="3"/>
+  <path d="m20 26 18 15 18-15" stroke="#142747" stroke-width="3" stroke-linejoin="round"/>
+  <text x="68" y="40" fill="#142747" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="1">DEMO CLIENT</text>
+  <text x="69" y="58" fill="#142747" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">PLACEHOLDER 04</text>
+</svg>

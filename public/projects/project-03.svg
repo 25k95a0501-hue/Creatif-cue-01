@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" fill="none">
+  <rect width="1200" height="820" fill="#E7D3C4"/>
+  <path d="M0 644c227-100 447-107 649-8s371 91 551 8v176H0V644z" fill="#C27A57"/>
+  <ellipse cx="601" cy="666" rx="403" ry="51" fill="#142747" fill-opacity=".13"/>
+  <path d="M362 256h230v381H362z" fill="#F5F1E7"/>
+  <path d="M362 256l115-64 115 64" fill="#D7E98C"/>
+  <path d="M381 319h192" stroke="#142747" stroke-width="2"/>
+  <text x="403" y="400" fill="#142747" font-family="Georgia,serif" font-size="47" font-style="italic">still</text>
+  <text x="403" y="450" fill="#142747" font-family="Arial,sans-serif" font-size="38" font-weight="700">FORM</text>
+  <text x="403" y="601" fill="#142747" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">BOTANICAL OBJECTS</text>
+  <path d="M654 337h187v301H654z" fill="#142747"/>
+  <path d="M654 337l94-52 93 52" fill="#7B9580"/>
+  <circle cx="747" cy="453" r="48" stroke="#D7E98C" stroke-width="2"/>
+  <path d="M747 409v88M703 453h88" stroke="#D7E98C" stroke-width="2"/>
+  <text x="678" y="588" fill="#F5F1E7" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">FORM / 03</text>
+  <text x="86" y="95" fill="#142747" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">CREATIF CUE / PROJECT 03</text>
+</svg>
